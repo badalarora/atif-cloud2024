@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "atif-cloud",
+  "private_key_id": "3d3adb77945f9f1a49d0db4a5f3457ae1402bda8",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQCklCnfn+gRgXON\nB7wUuzgeJFozjUIueJMIG6Pvn76FeJaRpwE65pEDimWKksd2odxowZOKJiU/mwVq\nPPSPYK0bbMrAbTUZspQtOjMewoYRVJsZ7YBUwkoTjJb2hpNtufi+VEmctVqNh8z2\nEs/YXA3j8nz+sgyzcLigqaaQ790EoHAAUdMtsoZZaUumIF4PZpbBuXTHGfe8ijDY\nLc20eitEAGhpXzbCYMhYeXN6rhYLtEsBS+BQ8RF42Y/NYHNXo04BcM1QWwA92J9o\newPOQBf3KJ0lmfl7+xN2Q9wmkDg23rYJZqWCCYyAltWKXKt+OtZEC9RXzvJukL+U\nvDNUC+W9AgMBAAECggEACDg9gSWM4yGagk7XwMH6/bJmGOYItKZ2qB8tSGCrlMye\n2dvD7suo2XWWOF4NUpT8m59zaCEbQiUoF5QUyNEUxDu3l/W8WFy4FCwwdRb/uCoy\nwZBAP7t2af80Y6VOrq/CRyCRjp9AzF8dyE/MjACeUaYA7Sg6WdSa5qyicjcF9wmc\nYZmiIQQyo9sPJmuOPHCmhpXUGmhAsawDGXDwXtxeawYsem7ZO6WQ6RK4VXMOfuSr\n1zl/9+uPlqdFOUR56b0o7Z0Z7DaBvz7kR5763GAUFudVVoXqqbZcEdOAUbS4D/MB\nWFsqtBYBAdDM/Ox9zkBBI0w87LrzwumLggqjTX9EdwKBgQDenE9kdxqPDYQ7iPbZ\nbkg7QKrGfx85LuV3c9RMpUoqvA2wzOqdfuObz32M0nkXy3XEYCyntysBpxOEwBsf\nxnnUvmVJXz4MlVYSFyq2NSBIInqolZdgzCNAsdI6ElxNC4sD2xihP65eE5pRuesd\n9RL2SfAeKeSpFefFjZSimV0QCwKBgQC9Q5OaATidGeOM5v9c30DuAJfMGbp/n/R3\nRIOzeCsDiZwE9EZSzurFKtvoGo+lFJoh8/XsWbqhEWJBLzZLsJ+cyah4buVmBexK\n0tnhAzJ31LmDAqYLXHsKyqFOCYl2Fg+kTyPDvaddhfbIHVcgHJSFCequel0dcOhm\nStKFtC+WVwKBgG+krRyRrzw3Zy4EjuiVKpys3fkXIC2pm2PBL6QQ8ZVlIuicnL3I\nOZaXBTxvAlQwsit+oGassmDtzhgx0GirPca4hku5/ICLFNOV0tH26u3CfQm3nGfr\neXKku+5r7uak919DrqKQMX71DdwXBhfMJWpnwokeMZOrbMXjL7wsdkPpAoGBALkM\nMmuYGA9aeaaRUEowql5JzCEtYrBX54EZRx+ZNY0u5ZHeeEeMsfR3NC2akqnYG99o\nlSEylgvXYFbVX2Pf3B9C9+pQmxAGaIK753VeV+Db50nVtB1VnaPufIo9Pt5rMX34\nNsKyUspZKfF85muqJfhxurg/QX2AoGkrbOx3QTPfAoGAFezV9uYNYJbJLsKM1byi\nraCCzw4S2Elh0zxbFsQgpyn7RWqsu6bbiY6mNFZumqHRdtav8xVApQChemVJSnlv\nI/Utnejqg2wNr172uYirUiHhpMu8AZvfIrcKgih7X5xtGXUX4klcxsJI16Wh8jUv\nz3RvSMI5gWeXFAVs3sXUVMs=\n-----END PRIVATE KEY-----\n",
+  "client_email": "my-gcp-credentials@atif-cloud.iam.gserviceaccount.com",
+  "client_id": "100560955787552799051",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/my-gcp-credentials%40atif-cloud.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}
